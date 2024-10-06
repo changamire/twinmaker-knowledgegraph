@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "@aws-sdk/client-iottwinmaker": "^3.664.0",
+        "csv-parse": "^5.5.6"
+    },
+    "devDependencies": {
+        "ts-node": "^10.9.2",
+        "typescript": "^5.6.2"
+    }
+}
